@@ -1,9 +1,12 @@
-Objective: Install a hypervisor and build the first VM for the helpdesk lab.
+# Environment Setup
+
+**Objective:** Install a hypervisor and build the first VM for the helpdesk lab.
 
 ## Steps
 1. Installed Oracle VirtualBox as the hypervisor.
 2. Downloaded the Windows 11 ISO (VM not yet created).
 3. Installed Windows Server 2025 as a VM.
+![Windows Server 2025 desktop after install](server-desktop.jpg)
 
 ## Tools / tech used
 - Oracle VirtualBox [version]
