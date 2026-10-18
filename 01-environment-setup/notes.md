@@ -6,7 +6,7 @@
 1. Installed Oracle VirtualBox as the hypervisor.
 2. Downloaded the Windows 11 ISO (VM not yet created).
 3. Installed Windows Server 2025 as a VM.
-![Windows Server 2025 desktop after install](server-desktop.jpg)
+![VirtualBox details for the Windows Server 2025 VM, showing resource allocation](vbox-details.png)
 
 ## Tools / tech used
 - Oracle VirtualBox [version]
