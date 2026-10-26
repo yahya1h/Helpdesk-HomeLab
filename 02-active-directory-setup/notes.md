@@ -12,7 +12,8 @@ server to a domain controller, creating the lab's domain.
 6. Accepted the default settings for the rest of the wizard and installed. The installation took a while and the server restarted.
 7. Verified the setup by running `systeminfo.exe` in Command Prompt, which displays the host name, OS version and domain.
 
-<img src="systeminfo-output.jpg" alt="systeminfo output showing host name LDN-DC-01 and the domain" width="600">
+<img src="server-manager-dashboard.png" alt="Server Manager dashboard showing AD DS and DNS roles running" width="600">
+<img src="systeminfo-output.png" alt="systeminfo output showing host name LDN-DC-01, Primary Domain Controller configuration and domain yahyalab.com" width="600">
 
 ## Tools / tech used
 - Windows Server 2025 [edition]
