@@ -22,7 +22,7 @@ A virtual Windows domain I built to practise the day-to-day work of an IT helpde
 | [04-client-domain-join](04-client-domain-join/notes.md) | Built a Windows 11 client, configured static IPs and DNS, tested connectivity, joined it to the domain, and connected to the server with Remote Desktop |
 | [05-password-and-lockout-policy](05-password-and-lockout-policy/notes.md) | Set the domain password and account lockout policy with Group Policy, tested the lockout, and unlocked the account |
 | [06-security-groups-and-shares](06-security-groups-and-shares/notes.md) | Created department security groups and a shared folder per department, then tested allowed and denied access from the client |
-| [07-group-policy-drive-maps](07-group-policy-drive-maps/notes.md) | Used Group Policy to map drives by department group and to lock idle machines |
+| [07-group-policy-drive-maps](07-gpo-drive-maps-and-screen-lock/notes.md) | Used Group Policy to map drives by department group and to lock idle machines |
 
 ## Skills demonstrated
 
