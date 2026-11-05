@@ -2,8 +2,6 @@
 
 A virtual Windows domain I built to practise the day-to-day work of an IT helpdesk: managing users and groups, applying policies, controlling access to shared files, and troubleshooting sign-in problems. Each folder contains my notes, the reasoning behind each step, and screenshots.
 
-Built in VirtualBox in October to November 2026, following the "IT Helpdesk Lab" series by KevTech IT Support, and extended with my own work on department-based shares using security groups and Group Policy drive maps and screen lock.
-
 ## Lab environment
 
 | Component | Details |
